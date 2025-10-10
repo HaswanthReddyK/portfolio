@@ -61,21 +61,21 @@ class Landing extends Component{
                         <h1 className="mb-0"><span className="main-text">Software</span> Engineer,</h1>
                         <h1 className="mb-0"><span className="main-text">Full Stack</span> Developer,</h1>
                         <h1 className="mb-5"><span className="main-text">AI/ML</span> Engineer</h1>
-                        <h4>I'm <span className="main-text">Yogesh Sarma</span>. Software Engineer and Full Stack Developer with 3 Years of Experience, AI/ML aficianado advancing my skills with a Master's Degree in the US.</h4>
+                        <h4>I'm <span className="main-text">Haswanth Reddy Kondamadugula</span>. Software Engineer and Full Stack Developer with 5 Years of Experience, AI/ML aficianado advancing my skills with a Master's Degree in the US.</h4>
                         <Col className="my-3">
-                            <a className="footer-logo ms-2" href="https://github.com/Yogesh-sarma" target="_blank"  rel="noreferrer"><GithubOriginal size={'2rem'}/></a>
-                            <a className="footer-logo ms-2" href="https://www.linkedin.com/in/yogesh-sarma845/" target="_blank"  rel="noreferrer"><LinkedinOriginal size={'2rem'}/></a>
-                            <a className="footer-logo ms-2" href="https://www.instagram.com/yogesh_sarma_/" target="_blank"  rel="noreferrer"><FaInstagram size={'2rem'} color={'#405DE6'}/></a>
-                            <a className="footer-logo ms-2" href="https://www.facebook.com/yogesh.sarma.5/" target="_blank"  rel="noreferrer"><FacebookOriginal size={'2rem'}/></a>
-                            <a className="footer-logo ms-2" href="https://x.com/yogeshsarma" target="_blank"  rel="noreferrer"><TwitterOriginal size={'1.5rem'}/></a>
+                            <a className="footer-logo ms-2" href="https://github.com/HaswanthReddyK" target="_blank"  rel="noreferrer"><GithubOriginal size={'2rem'}/></a>
+                            <a className="footer-logo ms-2" href="https://www.linkedin.com/in/haswanthkondamadugula/" target="_blank"  rel="noreferrer"><LinkedinOriginal size={'2rem'}/></a>
+                            <a className="footer-logo ms-2" href="https://www.instagram.com/look_me_like_me/" target="_blank"  rel="noreferrer"><FaInstagram size={'2rem'} color={'#405DE6'}/></a>
+                            <a className="footer-logo ms-2" href="https://www.facebook.com/profile.php?id=61576953906945" target="_blank"  rel="noreferrer"><FacebookOriginal size={'2rem'}/></a>
+                            <a className="footer-logo ms-2" href="https://x.com/HaswanthR13" target="_blank"  rel="noreferrer"><TwitterOriginal size={'1.5rem'}/></a>
                         </Col>
                         <Col>
-                            <a className="primary-text noul-link ms-2" style={{ margin:'5px'}} href="mailTo:yogeshsarmaw@gmail.com"><FaEnvelope size={'2rem'} color="#034fa0"/> : yogeshsarmaw@gmail.com</a>
+                            <a className="primary-text noul-link ms-2" style={{ margin:'5px'}} href="mailTo:hrkondamadugula13@gmail.com"><FaEnvelope size={'2rem'} color="#034fa0"/> : hrkondamadugula@gmail.com</a>
                         </Col>
                     </Col>
                     <Col className="d-flex flex-column p-3 m-2 m-sm-5 mx-lg-2 justify-content-center align-items-center">
-                        <a className="btn btn-primary button m-2 noul-link" href="mailTo:yogeshsarmaw@gmail.com">Contact Me</a>
-                        <a id="dwndResumeButton" className="btn btn-primary button m-2" href="/src/download/Yogesh-Resume.pdf" download>Download Resume</a>
+                        <a className="btn btn-primary button m-2 noul-link" href="mailTo:hrkondamadugula13@gmail.com">Contact Me</a>
+                        <a id="dwndResumeButton" className="btn btn-primary button m-2" href="/src/download/Haswanth-Resume.pdf" download>Download Resume</a>
                     </Col>
                 </Row>
 
