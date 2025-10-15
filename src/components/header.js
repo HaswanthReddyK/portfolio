@@ -14,7 +14,7 @@ class Header extends Component {
         return (
             <Navbar fixed="top" expand="lg" className="bg-body-tertiary">
                 <Container>
-                    <Link to={homepage} className="logo py-1 px-2 me-3">YS</Link>
+                    <Link to={homepage} className="logo py-1 px-2 me-3">HK</Link>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav" className="justify-content-between">
                     <Nav>
