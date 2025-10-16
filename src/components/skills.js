@@ -21,6 +21,9 @@ class Skills extends Component{
             {
                 name: 'JavaScript',
                 icon: <JavascriptOriginal size={iconSize}/>
+            },
+            {   name: 'Go',
+                icon: <GoOriginal size={iconSize}/>
             }
         ]
 
